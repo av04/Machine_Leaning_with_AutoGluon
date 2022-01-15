@@ -1,4 +1,4 @@
-# Machine_Leaning_with_AutoGluon
+# Machine_Learning_with_AutoGluon
 ## AutoGluon is an open source Python package, which helps you build Auto ML models!
 
 I think that's all the intro it needs. I recently bumped into this new python package called AutoGluon, it helps in not only Auto ML process but hell lot more!
